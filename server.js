@@ -2,7 +2,7 @@ import express, { json } from 'express';
 import dotenv from 'dotenv';
 
 dotenv.config({ path: new URL('./.env', import.meta.url) });
-dotenv.config({ path: new URL('./.env-config', import.meta.url) });
+dotenv.config({ path: new URL('./config.env', import.meta.url) });
 
 const app = express();
 
