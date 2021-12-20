@@ -1,0 +1,10 @@
+{
+  "terminal.integrated.cwd": "",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "markdown.extension.tableFormatter.normalizeIndentation": true
+}
